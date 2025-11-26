@@ -1,0 +1,19 @@
+{
+    "mountains": [
+        {
+            "name": "Mount Everest",
+            "height": "8,848m",
+            "localiton": "Nepal",
+            "routes": "",
+            "description": ""
+        },
+
+        {
+            "name": "K2",
+            "height": "8611m",
+            "localiton": "Borders Pakistan and China",
+            "routes": "",
+            "description": ""
+        }
+    ]
+}
